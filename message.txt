@@ -1,0 +1,3 @@
+In this basic app we are using CRUD operations to create, read, update and delete users.
+
+Command to start app: npm start.
